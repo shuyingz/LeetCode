@@ -1,7 +1,6 @@
 # LeetCode
-LeetCode Questions
+LeetCode Questions for Interviews
 
 ## Some Links
 
-https://books.halfrost.com/leetcode/
-
+- [LeetCode Cookbook](https://books.halfrost.com/leetcode/)
